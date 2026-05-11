@@ -1,5 +1,4 @@
-# PRODIGY_SD_03
-Simple Contact Management System
+# Simple Contact Management System
 
 <img width="1853" height="891" alt="task 3 ss1" src="https://github.com/user-attachments/assets/7ba0dbfe-7c6a-4a65-b816-156098bfa651" />
 
